@@ -223,7 +223,7 @@ bindsym $mod+r mode "resize"
 include ~/.config/sway/conf.d/*
 
 default_border pixel 2
-gaps outer 4 
-gaps inner 4 
+gaps outer 2 
+gaps inner 2 
 
 exec waybar
